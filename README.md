@@ -1,6 +1,8 @@
 # mlDemo
 core ml demo
 
+demo is larger than 100M, cause '.mlmodel' file.
+
 implement simple image recongnition demo according to Apple provide .mlmodel file
 
 also use some iOS 11 new APIs.
