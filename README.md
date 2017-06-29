@@ -3,7 +3,7 @@ core ml demo
 
 implement simple image recongnition demo according to Apple provide .mlmodel file
 
-also use iOS 11 new API.
+also use some iOS 11 new APIs.
 
 
 #### there have two functions:
