@@ -3,8 +3,10 @@ core ml demo
 
 implement simple image recongnition demo according to Apple provide .mlmodel file
 
+also use iOS 11 new API.
 
-####there have two functions:
+
+#### there have two functions:
 
 1. pick image from albume  (use GoogLeNetPlaces.mlmodel)
 
@@ -12,10 +14,11 @@ implement simple image recongnition demo according to Apple provide .mlmodel fil
 
 
 
-####Video link:
+#### Video link:
 
 Introducing Core ML :https://developer.apple.com/videos/play/wwdc2017/703/
 
 Core ML in depth : https://developer.apple.com/videos/play/wwdc2017/710/
+
 
 have fun :)
