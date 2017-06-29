@@ -22,5 +22,7 @@ Introducing Core ML :https://developer.apple.com/videos/play/wwdc2017/703/
 
 Core ML in depth : https://developer.apple.com/videos/play/wwdc2017/710/
 
+#### Model link:
+https://developer.apple.com/machine-learning/
 
 have fun :)
